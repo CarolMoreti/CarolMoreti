@@ -8,7 +8,7 @@
   
   <img height="180em" src="banner.jpg"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinemoreti&layout=compact&theme=radical&langs_count=8&custom_title=Most Used Languages"/>
+  <img height="180em" src="download20250703083024.png"/>
 </div>
 
 <br/>
